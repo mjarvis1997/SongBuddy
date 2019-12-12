@@ -10,7 +10,7 @@ sudo apt-get libboost-filesystem-dev
 sudo apt-get update
 
 # Then to use from command line:
-./newsongbot "my song name'
+./newsongbot 'my song name'
   
 # To Do
 implement gui
