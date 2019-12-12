@@ -4,13 +4,13 @@
 # Current Functionality
 Creates song folder in current directory;  dynamically creates subdirectories and files necessary for a song. 
 
-Requires boost::filesystem to work 
-  To install on linux: 
-        sudo apt-get libboost-filesystem-dev
-        sudo apt-get update
+# Requires boost::filesystem to work 
+## To install on linux: 
+sudo apt-get libboost-filesystem-dev
+sudo apt-get update
 
-Then to use from command line:
-        ./newsongbot "my song name'
+# Then to use from command line:
+./newsongbot "my song name'
   
 # To Do
 implement gui
